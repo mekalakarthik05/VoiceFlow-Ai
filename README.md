@@ -49,17 +49,9 @@ Unlike traditional cloud-only assistants, VoiceFlow AI combines local AI inferen
 # 🎥 Demo
 
 ## Application Demo
-
-```text
-Insert Demo Video Here
-
-demo/demo.mp4
-OR
-
-https://youtube.com/your-demo-link
 ```
-
----
+comming soon
+```
 
 # 📸 Application Showcase
 

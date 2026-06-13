@@ -61,23 +61,39 @@ https://youtube.com/your-demo-link
 
 ---
 
-# 📸 Screenshots
+# 📸 Application Showcase
 
-## Home Screen
+## Main Dashboard
 
-![Home](assets/screenshots/home.png)
+![Main Dashboard](assets/screenshots/main-dashboard.png)
 
-## Voice Conversation
+## Voice Interaction Pipeline
 
-![Conversation](assets/screenshots/conversation.png)
+![Voice Interaction](assets/screenshots/voice-interaction.png)
 
-## AI Response Generation
+## Conversation Memory
 
-![Response](assets/screenshots/response.png)
+![Conversation History](assets/screenshots/history.png)
 
-## System Dashboard
+## Health Monitoring
 
-![Dashboard](assets/screenshots/dashboard.png)
+![Health Dashboard](assets/screenshots/health-dashboard.png)
+
+## Analytics Dashboard
+
+![Analytics](assets/screenshots/analytics.png)
+
+## Multi-Model Configuration
+
+![Configuration](assets/screenshots/configuration.png)
+
+## Personality Engine
+
+![Personality](assets/screenshots/personality.png)
+
+## Language Support
+
+![Language Support](assets/screenshots/language-support.png)
 
 ---
 
@@ -94,6 +110,26 @@ https://youtube.com/your-demo-link
 | Reliability | Automatic Fallback Architecture |
 | Export | Conversation Export |
 | Testing | Unit Testing + Pipeline Validation |
+
+---
+
+# 📊 System Capabilities
+
+| Capability | Supported |
+|------------|------------|
+| Speech Recognition | ✅ |
+| Multi-Turn Conversations | ✅ |
+| Local AI Inference | ✅ |
+| Text-to-Speech | ✅ |
+| Voice Download | ✅ |
+| PDF Export | ✅ |
+| TXT Export | ✅ |
+| Multi-Model Support | ✅ |
+| Personality Switching | ✅ |
+| Multi-Language Support | ✅ |
+| Health Monitoring | ✅ |
+| Analytics Dashboard | ✅ |
+| Session Statistics | ✅ |
 
 ---
 

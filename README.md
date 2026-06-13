@@ -133,6 +133,39 @@ https://youtube.com/your-demo-link
 
 ---
 
+```mermaid
+flowchart LR
+
+A[User Voice]
+
+--> B[Deepgram STT]
+
+--> C[Conversation Memory]
+
+--> D[LLM Router]
+
+D --> E[Llama 3.2]
+D --> F[Qwen3]
+
+E --> G[Response Generator]
+F --> G
+
+G --> H[Personality Engine]
+
+H --> I[Explanation Mode]
+
+I --> J[Piper TTS]
+
+J --> K[Audio Response]
+
+K --> L[Analytics Dashboard]
+
+L --> M[Export Services]
+```
+
+---
+
+
 # 🏗 High-Level Architecture
 
 ```mermaid

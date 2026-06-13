@@ -9,7 +9,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![Deepgram](https://img.shields.io/badge/Deepgram-FF6B35?style=for-the-badge)
-![Piper](https://img.shields.io/badge/Piper TTS-2E8B57?style=for-the-badge)
+![Piper](https://img.shields.io/badge/Piper_TTS-2E8B57?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)
 
@@ -417,7 +417,7 @@ The workflow begins when the user speaks into the microphone. Audio is sent to D
 
 ---
 
-#  Support
+# Support
 
 If you found this project useful:
 

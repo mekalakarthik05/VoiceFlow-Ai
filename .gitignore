@@ -64,3 +64,7 @@ coverage.xml
 # OS Generated
 .DS_Store
 Thumbs.db
+
+# AI Models
+assets/models/*.onnx
+assets/models/*.json

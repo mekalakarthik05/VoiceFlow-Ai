@@ -79,12 +79,13 @@ comming soon
 
 ![Configuration](assets/screenshots/configuration.png)
 
-## Personality Engine                                                            ## Language Support
+## Personality Engine                                                           
 
-![Personality](assets/screenshots/personality.png)    ![Language Support](assets/screenshots/language-support.png)
+![Personality](assets/screenshots/personality.png)    
 
+ ## Language Support
 
-
+![Language Support](assets/screenshots/language-support.png)
 
 
 ---

@@ -446,39 +446,8 @@ Implemented recovery mechanisms:
 
 ---
 
-# 💼 Resume Highlights
-
-### VoiceFlow AI — Real-Time Conversational Voice Assistant
-
-- Built an end-to-end AI voice assistant integrating Deepgram Speech-to-Text, Ollama LLMs, and Piper Text-to-Speech.
-- Designed a modular speech-to-speech architecture with conversation memory and automated fallback recovery.
-- Implemented local AI inference, real-time transcription, voice synthesis, and service validation pipelines.
-- Developed a Streamlit-based SaaS-style interface with robust monitoring and health diagnostics.
-
----
-
-# 🎤 Interview Explanation
-
-VoiceFlow AI is a speech-to-speech conversational AI system.
-
-The workflow begins when the user speaks into the microphone. Audio is sent to Deepgram for transcription. The generated transcript is passed to a locally running LLM through Ollama, which generates a contextual response while maintaining conversation memory. The response is then converted into speech using Piper TTS and played back to the user. The system also includes fallback mechanisms, validation pipelines, and service health monitoring to improve reliability.
-
----
-
-# 🛣 Future Roadmap
-
-- [ ] Streaming Speech Recognition
-- [ ] Streaming LLM Responses
-- [ ] Voice Cloning Support
-- [ ] Multi-Language Conversations
-- [ ] Mobile Application
-- [ ] Cloud Synchronization
-- [ ] Voice Biometrics
-- [ ] Advanced Analytics Dashboard
-
----
-
-# Support
+# Author
+Karthik Mekala
 
 If you found this project useful:
 

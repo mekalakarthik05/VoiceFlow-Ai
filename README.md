@@ -79,13 +79,13 @@ comming soon
 
 ![Configuration](assets/screenshots/configuration.png)
 
-## Personality Engine
+## Personality Engine                                                            ## Language Support
 
-![Personality](assets/screenshots/personality.png)
+![Personality](assets/screenshots/personality.png)    ![Language Support](assets/screenshots/language-support.png)
 
-## Language Support
 
-![Language Support](assets/screenshots/language-support.png)
+
+
 
 ---
 
@@ -448,6 +448,7 @@ Implemented recovery mechanisms:
 
 # Author
 Karthik Mekala
+---
 
 If you found this project useful:
 

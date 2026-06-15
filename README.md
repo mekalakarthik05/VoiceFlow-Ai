@@ -52,9 +52,9 @@ Unlike traditional cloud-only assistants, VoiceFlow AI combines local AI inferen
 
 # 📸 Screenshots
 
-| Main Dashboard | Voice Interaction Pipeline |
+| Main Dashboard | Language Support |
 |----------------|----------------------------|
-| ![](assets/screenshots/main-dashboard.png) | ![](assets/screenshots/voice-interaction.png) |
+| ![](assets/screenshots/main-dashboard.png) | ![](assets/screenshots/language-support.png) |
 
 | Conversation Memory | Health Monitoring |
 |---------------------|-------------------|
@@ -64,9 +64,9 @@ Unlike traditional cloud-only assistants, VoiceFlow AI combines local AI inferen
 |---------------------|---------------------------|
 | ![](assets/screenshots/analytics.png) | ![](assets/screenshots/configuration.png) |
 
-| Personality Engine | Language Support |
+| Voice Interaction Pipeline | Personality Engine | 
 |-------------------|------------------|
-| ![](assets/screenshots/personality.png) | ![](assets/screenshots/language-support.png) |
+| ![](assets/screenshots/voice-interaction.png) | ![](assets/screenshots/personality.png) |
 
 
 ---

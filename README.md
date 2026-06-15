@@ -48,44 +48,25 @@ Unlike traditional cloud-only assistants, VoiceFlow AI combines local AI inferen
 
 # 🎥 Demo
 
-## Application Demo
-```
-comming soon
-```
+[Open Post](https://www.linkedin.com/posts/karthik-mekala-k05_artificialintelligence-ai-generativeai-ugcPost-7471949627089616896-_ZeX/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVTF0wB3qXhefPbOttnaqoVeYZck53kUCQ)
 
-# 📸 Application Showcase
+# 📸 Screenshots
 
-## Main Dashboard
+| Main Dashboard | Voice Interaction Pipeline |
+|----------------|----------------------------|
+| ![](assets/screenshots/main-dashboard.png) | ![](assets/screenshots/voice-interaction.png) |
 
-![Main Dashboard](assets/screenshots/main-dashboard.png)
+| Conversation Memory | Health Monitoring |
+|---------------------|-------------------|
+| ![](assets/screenshots/history.png) | ![](assets/screenshots/health-dashboard.png) |
 
-## Voice Interaction Pipeline
+| Analytics Dashboard | Multi-Model Configuration |
+|---------------------|---------------------------|
+| ![](assets/screenshots/analytics.png) | ![](assets/screenshots/configuration.png) |
 
-![Voice Interaction](assets/screenshots/voice-interaction.png)
-
-## Conversation Memory
-
-![Conversation History](assets/screenshots/history.png)
-
-## Health Monitoring
-
-![Health Dashboard](assets/screenshots/health-dashboard.png)
-
-## Analytics Dashboard
-
-![Analytics](assets/screenshots/analytics.png)
-
-## Multi-Model Configuration
-
-![Configuration](assets/screenshots/configuration.png)
-
-## Personality Engine                                                           
-
-![Personality](assets/screenshots/personality.png)    
-
- ## Language Support
-
-![Language Support](assets/screenshots/language-support.png)
+| Personality Engine | Language Support |
+|-------------------|------------------|
+| ![](assets/screenshots/personality.png) | ![](assets/screenshots/language-support.png) |
 
 
 ---

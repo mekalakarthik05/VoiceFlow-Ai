@@ -53,21 +53,21 @@ Unlike traditional cloud-only assistants, VoiceFlow AI combines local AI inferen
 # 📸 Screenshots
 
 | Main Dashboard | Language Support |
-|----------------|----------------------------|
+|----------------|------------------|
 | ![](assets/screenshots/main-dashboard.png) | ![](assets/screenshots/language-support.png) |
 
 | Conversation Memory | Health Monitoring |
 |---------------------|-------------------|
 | ![](assets/screenshots/history.png) | ![](assets/screenshots/health-dashboard.png) |
 
-| Analytics Dashboard | Multi-Model Configuration |
-|---------------------|---------------------------|
-| ![](assets/screenshots/analytics.png) | ![](assets/screenshots/configuration.png) |
+| Analytics Dashboard | Multi-Model Configuration | Personality Engine | 
+|---------------------|---------------------------|--------------------|
+| ![](assets/screenshots/analytics.png) | ![](assets/screenshots/configuration.png) | ![](assets/screenshots/personality.png) |
 
-| Voice Interaction Pipeline | Personality Engine | 
-|-------------------|------------------|
-| ![](assets/screenshots/voice-interaction.png) | ![](assets/screenshots/personality.png) |
 
+| Voice Interaction Pipeline | 
+|----------------------------|
+| ![](assets/screenshots/voice-interaction.png) | 
 
 ---
 
